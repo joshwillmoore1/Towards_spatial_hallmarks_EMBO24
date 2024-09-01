@@ -8,8 +8,11 @@ This poster showcases two case studies using MuSpAn, a Python toolbox for Multis
 <img width="743" alt="Screenshot 2024-09-02 at 00 29 40" src="https://github.com/user-attachments/assets/9764df95-9b2a-4775-82cf-b94257f170bb">
 </p>
 
-
-
+---
+## Contact details
+- Email: joshua.moore@maths.ox.ac.uk
+- Twitter: @Moore_JW_
+- LinkedIn: Joshua Moore
 
 ---
 ## References
