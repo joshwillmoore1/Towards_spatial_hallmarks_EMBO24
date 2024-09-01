@@ -7,7 +7,7 @@ This poster showcases two case studies using MuSpAn, a Python toolbox for Multis
 ---
 ## References
 1. Bull, Joshua A., Moore, Joshua. & Helen Byrne. MuSpAn: A toolbox for Multiscale Spatial Analysis [Drafted]
-2. Bull, Joshua A., Mulholland, Eoghan., Moore, Joshua., et al. "Integrating diverse statistical methods to analyse stage-discriminatory cell interactions in colorectal neoplasia." bioRxiv (2024): 2024-06. \url[https://www.biorxiv.org/content/10.1101/2024.06.02.597010v1.abstract]
+2. Bull, Joshua A., Mulholland, Eoghan., Moore, Joshua., et al. "Integrating diverse statistical methods to analyse stage-discriminatory cell interactions in colorectal neoplasia." bioRxiv (2024): 2024-06. https://www.biorxiv.org/content/10.1101/2024.06.02.597010v1.abstract
 3. Mulholland, Eoghan., Moore, Joshua., et al. Dynamic Adaptability of Fibroblasts in the Tumour Microenvironment: Implications for Stem Cell Phenotype [Drafted]
 4. Vazquez, Ester Gil, et al. "Dynamic and adaptive cancer stem cell population admixture in colorectal neoplasia." Cell Stem Cell 29.8 (2022): 1213-1228.
    
